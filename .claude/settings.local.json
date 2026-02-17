@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where:*)",
+      "Bash(rustc:*)",
+      "Bash(node:*)",
+      "Bash(npm:*)",
+      "Bash(pnpm --version:*)",
+      "Bash(cargo --version:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npx vite build)"
+    ]
+  }
+}
